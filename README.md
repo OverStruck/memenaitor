@@ -23,7 +23,7 @@ Este script no es apto para un sitio "serio" ya que no esta pulido. Probablement
 
 ![Screenshot](http://i.imgur.com/47VWIGf.jpg)
 
-Cualquier consejo o comentario es bienvenido. Si eres un programador o un estudiante, siéntete libre de agregar funciones o reparar bugs.
+*Cualquier consejo o comentario es bienvenido. Si eres un programador o un estudiante, siéntete libre de agregar funciones o reparar bugs.*
 
 ###Que esta pasando ahora?
 Como no tengo mucho tiempo, pulir este script sera un proceso lento que probablemente haré en mi tiempo libre cuando tenga ganas. Simplemente decidí subir este script para aquellas personas que estén interesadas en algo así.
