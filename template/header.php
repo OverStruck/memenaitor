@@ -9,10 +9,10 @@
 	<div class="container">
 		<div id="logo"></div>
 		<div id="menu">
-			<a href="#">Inicio</a>
-			<a href="#">Crear Meme</a>
-			<a href="#">Acerca de</a>
-			<a href="#">Contacto</a>
+			<a href="#">Home</a>
+			<a href="#">Create meme</a>
+			<a href="#">About</a>
+			<a href="#">Contact</a>
 		</div>
 	</div>
 </div>

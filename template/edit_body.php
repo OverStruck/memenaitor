@@ -1,11 +1,11 @@
-﻿<h1>Añadir un título</h1>
+﻿<h1>Add title</h1>
 <div class="bmeme">
 	<canvas id="meme"></canvas>
 </div>
 <div id="editor">
-	<input id="top-text" type="text" placeholder="Texto superior" autocomplete="off">
-	<input id="button-text" type="text" placeholder="Texto superior" autocomplete="off">
-	<button>Crear</button>
+	<input id="top-text" type="text" placeholder="Top text" autocomplete="off">
+	<input id="button-text" type="text" placeholder="Button text" autocomplete="off">
+	<button>Create</button>
 </div>
 	
 <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js"></script>
